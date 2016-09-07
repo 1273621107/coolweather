@@ -1,4 +1,4 @@
-package com.example.coolweather.util;
+package com.linjie.coolweather.util;
 
 import java.text.SimpleDateFormat;
 import java.util.Date;
@@ -7,10 +7,10 @@ import java.util.Locale;
 import org.json.JSONException;
 import org.json.JSONObject;
 
-import com.example.coolweather.db.CoolWeatherDB;
-import com.example.coolweather.model.City;
-import com.example.coolweather.model.County;
-import com.example.coolweather.model.Province;
+import com.linjie.coolweather.db.CoolWeatherDB;
+import com.linjie.coolweather.model.City;
+import com.linjie.coolweather.model.County;
+import com.linjie.coolweather.model.Province;
 
 import android.content.Context;
 import android.content.SharedPreferences;

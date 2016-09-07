@@ -1,4 +1,4 @@
-package com.example.coolweather.model;
+package com.linjie.coolweather.model;
 
 public class County {
 	private int id;

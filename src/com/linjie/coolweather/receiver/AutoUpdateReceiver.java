@@ -1,6 +1,6 @@
-package com.example.coolweather.receiver;
+package com.linjie.coolweather.receiver;
 
-import com.example.coolweather.service.AutoUpdateService;
+import com.linjie.coolweather.service.AutoUpdateService;
 
 import android.content.BroadcastReceiver;
 import android.content.Context;

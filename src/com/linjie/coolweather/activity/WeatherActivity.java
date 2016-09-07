@@ -1,10 +1,10 @@
-package com.example.coolweather.activity;
+package com.linjie.coolweather.activity;
 
-import com.example.coolweather.R;
-import com.example.coolweather.service.AutoUpdateService;
-import com.example.coolweather.util.HttpCallbackListener;
-import com.example.coolweather.util.HttpUtil;
-import com.example.coolweather.util.Utility;
+import com.linjie.coolweather.R;
+import com.linjie.coolweather.service.AutoUpdateService;
+import com.linjie.coolweather.util.HttpCallbackListener;
+import com.linjie.coolweather.util.HttpUtil;
+import com.linjie.coolweather.util.Utility;
 
 import android.app.Activity;
 import android.content.Intent;

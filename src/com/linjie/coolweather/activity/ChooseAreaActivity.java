@@ -1,16 +1,16 @@
-package com.example.coolweather.activity;
+package com.linjie.coolweather.activity;
 
 import java.util.ArrayList;
 import java.util.List;
 
-import com.example.coolweather.R;
-import com.example.coolweather.db.CoolWeatherDB;
-import com.example.coolweather.model.City;
-import com.example.coolweather.model.County;
-import com.example.coolweather.model.Province;
-import com.example.coolweather.util.HttpCallbackListener;
-import com.example.coolweather.util.HttpUtil;
-import com.example.coolweather.util.Utility;
+import com.linjie.coolweather.R;
+import com.linjie.coolweather.db.CoolWeatherDB;
+import com.linjie.coolweather.model.City;
+import com.linjie.coolweather.model.County;
+import com.linjie.coolweather.model.Province;
+import com.linjie.coolweather.util.HttpCallbackListener;
+import com.linjie.coolweather.util.HttpUtil;
+import com.linjie.coolweather.util.Utility;
 
 import android.app.Activity;
 import android.app.ProgressDialog;

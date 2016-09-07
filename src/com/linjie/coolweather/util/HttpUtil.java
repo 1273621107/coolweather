@@ -1,4 +1,4 @@
-package com.example.coolweather.util;
+package com.linjie.coolweather.util;
 
 import java.io.BufferedReader;
 import java.io.InputStream;
